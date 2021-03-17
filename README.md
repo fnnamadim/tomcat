@@ -1,1 +1,3 @@
-# tomcat
+# maven-project
+
+Simple Maven Project
